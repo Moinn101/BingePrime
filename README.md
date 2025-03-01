@@ -12,5 +12,6 @@ Watchmode API & Retrofit: Delivers real-time movie and TV show data with RxJavaâ
 Koin: Keeps everything organized with smooth dependency injection.
 Image Loading & Scrolling: Brings stunning images to life and adds a dynamic "Coming Soon" section with streaming service logos.
 
-![Binge Prime (2)](https://github.com/user-attachments/assets/f779f487-92f4-47a0-86bc-994de7107303)
+
 ![Binge Prime](https://github.com/user-attachments/assets/cab6d456-7cbb-414d-9a77-a0c26880b561)
+![Binge Prime (2)](https://github.com/user-attachments/assets/f779f487-92f4-47a0-86bc-994de7107303)
